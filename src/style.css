@@ -1,0 +1,172 @@
+.all
+{
+    font-family: 'Poppins', sans-serif;
+}
+.menu{
+    border: none;
+    background-color: white;      
+    text-align: center;
+    color: white;       
+    
+}
+.price{
+    text-align: start;
+}
+a:active {
+    color: blue;
+  }
+
+a {
+ text-decoration: none;
+}
+
+.tombol{
+    background-color: orange;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+.popular .card{
+    height: 284px;
+    border-radius: 20px;
+}
+.img-popular{
+  width: 100%;
+  border-radius: 25px;
+  height: 150px;
+  overflow: hidden;
+  position: relative;
+}
+
+.img-popular .img-popular2{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+p.time {
+    position: absolute;
+    bottom: 0;
+    background-color: white;
+    padding: 4px 8px;
+    border-radius: 15px;
+    left: 7px;
+}
+
+
+.makanan {
+    position: absolute;
+    top: 55%;
+    left: 13%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+
+.pizza {
+    position: absolute;
+    top: 55%;
+    left: 39%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.burger {
+    position: absolute;
+    top: 55%;
+    left: 64%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.juice {
+    position: absolute;
+    top: 55%;
+    left: 89%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.wrapper-category .col-3{
+    position: relative;
+  }
+
+.category-menu img{
+   filter: brightness(50%);
+   border-radius: 15%;
+   width: 170%;
+   height: 150px;   
+   padding: 5px;
+   position: relative;
+   margin-top: 20%;
+   margin-left: 10%;
+   border: none;
+}
+
+.category-menu .col-3 p {
+    position: absolute;
+    font-size: 24px;
+    top: 55%;        
+    left: 85%;
+    color: white;
+    transform: translate(-50%, -50%);
+  }
+.category-text{
+    margin-left: 40%;
+}
+
+.img_menu2{
+    filter: brightness(50%);
+    border-radius: 10%;
+    width: 130%;
+ }
+
+ .menu_popular{
+    border: none;
+    background-color: white;      
+    text-align: center;
+    color: white;       
+    position: relative;  
+}
+
+.text-block {
+    position: absolute;   
+    background-color: white;
+    color: white;
+    padding-left: 20px;
+    padding-top: -10px;
+    padding-right: 20px;
+    padding-bottom: px;
+    border-radius: 12px;
+    bottom: 20px;
+    right: 160px;
+  }
+
+ .waktu{
+     color: black;
+     font-size: 10px;
+     
+ }
+
+ .card-popular{
+     padding-right: 66px ;
+     border: none;
+ }
+
+ .ATM .card {
+    background-color: #6455c2;
+    color: white;
+    border-radius: 18px;
+ }
+
+ .wrap{
+    align-self: flex-end;
+    color: #FB7140;
+    
+ }
+
+ .order-submit button{
+     background-color: orange;
+ }
+
+.text{
+    color: black;
+}
